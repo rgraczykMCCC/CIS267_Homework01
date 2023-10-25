@@ -3,19 +3,28 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Destroyer
+  - OB
+  - Airplane
+  - Rocket
+  - Lightning
+  - Clock
+  - Helicopter
+  - Missile
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Platforms
+  - Spawners
+  - Attributes
+  - Helicopter
+  - CameraCollider
   - 
   - 
   - 
